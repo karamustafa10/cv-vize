@@ -2,6 +2,8 @@
 
 Bu proje, kamera ile araç ve plaka tespiti yapıp Arduino ile kapı kontrolü sağlayan bir Flask web uygulamasıdır. Sistem, sadece veritabanında kayıtlı plakalara izin vermektedir.
 
+📺 Demo Video: https://www.youtube.com/watch?v=0sVUL57W0PM
+
 ## 🚀 Özellikler
 
 - 🚗 Araç tespiti (Araba/Kamyon)
