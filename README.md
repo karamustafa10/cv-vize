@@ -1,4 +1,4 @@
-# CV-Goru: Araç ve Plaka Tespit Sistemi
+# Araç ve Plaka Tespit Sistemi
 
 Bu proje, kamera ile araç ve plaka tespiti yapıp Arduino ile kapı kontrolü sağlayan bir Flask web uygulamasıdır. Sistem, sadece veritabanında kayıtlı plakalara izin vermektedir.
 
