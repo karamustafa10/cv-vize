@@ -1,0 +1,6 @@
+names:
+- truck
+- car
+nc: 2
+train: C:\Users\Taha\Desktop\vize\merged_dataset/train/images
+val: C:\Users\Taha\Desktop\vize\merged_dataset/valid/images

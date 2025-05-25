@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 2
+names: ['Truck', 'truck']
+
+roboflow:
+  workspace: taha-v8txw
+  project: yolo-truck-mfz12-tp4mk
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/taha-v8txw/yolo-truck-mfz12-tp4mk/dataset/1

@@ -1,0 +1,13 @@
+train: ../Turkish Number Plates.v1i.yolov5pytorch/train/images
+val: ../Turkish Number Plates.v1i.yolov5pytorch/valid/images
+test: ../Turkish Number Plates.v1i.yolov5pytorch/test/images
+
+nc: 1
+names: ['license_plate']
+
+roboflow:
+  workspace: taha-v8txw
+  project: turkish-number-plates-lk7ah
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/taha-v8txw/turkish-number-plates-lk7ah/dataset/1
